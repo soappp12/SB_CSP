@@ -1,5 +1,4 @@
 #SB 6th First program python
 
-input("What is your favorite color?: ")
-color = Blue
+color = input("What is your favorite color?: ")
 print("Your favorite color is",color)
