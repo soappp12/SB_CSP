@@ -20,7 +20,7 @@ print("Welome to my program", full_name + "!")
 # 3. How do stupid proofing and sanitization relate to each other?
  #
 # 4. What is debugging?
- #
+ # debugging is fixing problems in my code 
 # 5. How do you debug the different types of errors?
  #
 # 6. Describe what each of the methods below does:
