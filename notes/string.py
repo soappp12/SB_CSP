@@ -18,7 +18,7 @@ print("Welome to my program", full_name + "!")
 # 2. Why do we have strings?
  # they are the only data type that allows us to use letters
 # 3. How do stupid proofing and sanitization relate to each other?
- #
+ # they both help make sure the data is proccesed correctly
 # 4. What is debugging?
  # debugging is fixing problems in my code
  # syntax error
