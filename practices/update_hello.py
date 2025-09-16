@@ -1,8 +1,9 @@
 # SB 6th update hello world
 
-def welcome():
-    name = input("What is your name?\n")
-    print(f"Your name is", {name})
+def welcome(info):
+ return info.strip().lower
+name = input("What is your name?\n")
+print(f"Your name is", {welcome(name)})
 
 welcome()
 welcome()
