@@ -1,12 +1,10 @@
 # SB 6th update hello world
 
-def welcome(info):
- return info.strip().lower
-name = input("What is your name?\n")
-print(f"Your name is", {welcome(name)})
+def say_hello(name):
+    print(f"Hello {name}!")
 
-welcome()
-welcome()
-welcome()
-welcome()
-welcome()
+say_hello("Sophia")
+say_hello("Camille")
+say_hello("Mia")
+say_hello("Ally")
+say_hello("Ellie")
