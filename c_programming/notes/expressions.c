@@ -31,15 +31,17 @@ int main(void){
 //What is the modulus operator, and how is it used?
 // its % and its used to find the remainder
 //How do you round a float to the nearest integer in C?
-//
+// you use the roundf function
 //What is type casting in C? Provide an example of explicit type casting.
 // it specifes the data type
 // example: printf("8/3 = %f\n", (float8/3))
 //How do compound assignment operators work in C? List three examples.
-// they work by 
+// they work by performing an operation on the value
+// ex: x+=4, x/=7, x*=9
 //What is the purpose of the math.h library? Name three functions it provides.
-// the math.h library is to 
+// the math.h library is to acess math functions.
+// pow, sis, log
 //How do you print a float with a specific number of decimal places using printf()?
-// you need to write 
+// you need to write something like "%1.2f" so the % and the decimal place with f after
 //What happens when you mix integer and float operations in C?
-// 
+// you get a floating point type
