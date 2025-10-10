@@ -5,11 +5,16 @@
 int main(void){
     char name[100];
     char decoration[] = "--";
+    char decoratedname[150];
+    
     printf("What is your name?: \n");
-    scanf("%s\n", name);
-    strcat(decoration, name, decoration);
+    scanf("%s", name);
+    
+    strcat(decoratedname, decoration);
+    strcat(decoratedname, name);
+    strcat(decoratedname, decoration);
+    printf("Decorated name= %s\n",decoratedname);
 
-    printf("%s\n", name);
 
 
     return 0;
