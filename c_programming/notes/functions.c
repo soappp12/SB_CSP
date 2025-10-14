@@ -46,5 +46,5 @@ replacing the call
 How do return statements change how you define a function in C?
 takes whatever is in the return code within the function and place it where its wanted
 What do return statements do with the information?
-replaces the call
+take whats in the return so you can place it wherever
 */
