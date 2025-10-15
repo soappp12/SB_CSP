@@ -1,4 +1,5 @@
 //SB 6th FizzBuzz
+
 #include <stdio.h>
 
 int main(void){
